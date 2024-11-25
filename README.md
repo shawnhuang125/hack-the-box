@@ -1,4 +1,4 @@
-# hack-the-box
+# Hack-The-Box
 ## Agenda
 ### Step 1.Basic Machine
 ### [Getting Started]()
